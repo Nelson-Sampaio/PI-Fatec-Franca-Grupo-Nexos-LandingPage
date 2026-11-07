@@ -1,0 +1,62 @@
+{
+  "intro": {
+    "title": "Público Alvo",
+    "text": "A NEXOS foi desenhada a partir de um ecossistema real: Todo o poder de crecimento do e-commerce e a capacidade de fornecimento do modelo dropshipping nacional, que conecta dois grandes segmentos complementares — Fornecedores/Fabricantes e Sellers de Marketplace.\n\nDe um lado, indústrias e confecções que precisam de controle rigoroso de estoque, previsão de produção, conciliação de recebimentos instantaneos e organização logística. Do outro, empreendedores digitais — de iniciantes ao Power Sellers multicanais — que dependem de sincronização em tempo real, precificação inteligente e integração ágil com diversos marketplaces como Shopee, Mercado Livre, Shein, Magalu e TikTok Shop dentre outros.\n\nÉ nesse encontro entre produção e venda que a NEXOS atua: incorporando o poder da capacidade da inteligência artificial para tornar a operação rápida e acertiva, prática e conectada ao resultado. As seis personas abaixo representam os usuários que dão vida a esse ecossistema — e que guiam cada decisão do nosso produto."
+  },
+  "personas": [
+    {
+      "id": "carlos",
+      "image": "/personas/carlos.jpg",
+      "name": "Carlos Eduardo",
+      "age": "42 anos",
+      "occupation": "Proprietário de Confecção Têxtil — Franca/SP",
+      "business": "Fornece vestuário no modelo de dropshipping para mais de 50 sellers ativos.",
+      "need": "Enfrenta picos imprevisíveis de demanda quando múltiplos sellers vendem as mesmas peças simultaneamente, gerando desfalques na linha de produção e atrasos na compra de insumos. Precisa de um painel de produção com estoque triplo e alertas automáticos via WhatsApp para agir antes do esgotamento do produto."
+    },
+    {
+      "id": "amanda",
+      "image": "/personas/amanda.jpg",
+      "name": "Amanda Silveira",
+      "age": "27 anos",
+      "occupation": "Seller Independente de Moda Feminina — Home Office",
+      "business": "Opera nos canais Shopee e Mercado Livre vendendo moda feminina de forma independente.",
+      "need": "Já teve a reputação afetada na Shopee por cancelamentos de pedidos devido à falta de estoque no fornecedor e sente insegurança sobre a rentabilidade real do negócio após taxas, comissões e fretes. Precisa de sincronização em tempo real e de uma calculadora de lucro real por unidade vendida."
+    },
+    {
+      "id": "roberto",
+      "image": "/personas/roberto.jpg",
+      "name": "Roberto Mendes",
+      "age": "38 anos",
+      "occupation": "Gerente Financeiro e Controller — Fábrica/Fornecedor",
+      "business": "Gerencia caixa e cobrança da fábrica, com centenas de micro-transações diárias provenientes de dezenas de sellers.",
+      "need": "Perde tempo operacional auditando manualmente comprovantes PIX enviados por mensagens e e-mails dispersos, com risco de fraudes. Precisa de um painel financeiro dedicado que organize comprovantes e etiquetas, valide anexos e libere pedidos para expedição com segurança e agilidade."
+    },
+    {
+      "id": "juliana",
+      "image": "/personas/juliana.jpg",
+      "name": "Juliana Prado",
+      "age": "31 anos",
+      "occupation": "Power Seller / Diretora de E-commerce — Multi-canal",
+      "business": "Opera em Mercado Livre, Shopee, Shein, Magalu e TikTok Shop, com volume acima de 100 pedidos por dia.",
+      "need": "Enfrenta trabalho braçal contínuo para ajustar manualmente o estoque em cinco plataformas a cada venda, com alto risco de erro humano e sobrecarga. Precisa de integração centralizada via API/Token que atualize os saldos em todos os marketplaces em menos de 3 segundos após a confirmação de uma venda."
+    },
+    {
+      "id": "marcos",
+      "image": "/personas/marcos.jpg",
+      "name": "Marcos Vinícius",
+      "age": "25 anos",
+      "occupation": "Supervisor de Produção Industrial — Fábrica",
+      "business": "Gerencia os setores de corte, costura, revisão e embalagem, com atribuição de priorizar as linhas de montagem.",
+      "need": "Não tem dados consolidados em tempo real sobre quais tamanhos ou cores estão com maior saída, o que gera gargalos de produção de itens esgotados. Precisa de um Termômetro de Estoque detalhado por grade (P, M, G, GG) para priorizar ordens de corte e montagem com assertividade."
+    },
+    {
+      "id": "beatriz",
+      "image": "/personas/beatriz.jpg",
+      "name": "Beatriz Lima",
+      "age": "29 anos",
+      "occupation": "Operadora de Logística e Expedição — Galpão do Fornecedor",
+      "business": "Atua na separação (picking), embalagem (packing) e bipagem de pacotes no galpão do fornecedor.",
+      "need": "Convive com erros de etiquetas trocadas, liberação desordenada de pedidos sem confirmação de pagamento e divergências nas modalidades de envio escolhidas pelos sellers. Precisa de um painel de expedição que bloqueie a bipagem e a impressão da ordem de separação até que o pagamento esteja confirmado e a etiqueta validada pelo sistema."
+    }
+  ]
+}

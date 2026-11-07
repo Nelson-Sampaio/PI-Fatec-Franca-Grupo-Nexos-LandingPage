@@ -1,0 +1,60 @@
+
+
+{
+  "sobre": {
+    "title": "O 'Nexo' do Seu Resultado",
+    "paragraphs": [
+      "Toda empresa tem um ponto onde tudo se conecta: 'O NEXO'. É ali que a produção encontra o dado, que a decisão encontra a clareza, que o esforço encontra o resultado. Mas quando o negócio cresce, esse nexo se perde — entre planilhas, sistemas desconectados e decisões no achismo.",
+      "A NEXOS nasceu para reconstruir essa conexão.",
+      "Somos especializados em incorporar inteligência artificial aos projetos das empresas, tornando-os atuais e práticos. Unimos o que estava separado: sua operação, seus dados e o seu resultado — em um só lugar, com uma só verdade. Tecnologia que não complica. Que fala a língua da sua fábrica. Que transforma o dia a dia da sua empresa em decisão inteligente.",
+      "Não somos mais um sistema. Somos o nexo entre o que sua empresa é hoje e o que ela pode ser amanhã."
+    ]
+  },
+  "mvv": {
+    "missao": {
+      "title": "Missão",
+      "content": "Reconstruir o nexo entre a operação e o resultado das empresas, incorporando inteligência artificial de forma prática e atual — transformando dados dispersos em decisões claras, com tecnologia que fala a língua de quem produz."
+    },
+    "visao": {
+      "title": "Visão",
+      "content": "Ser o NEXO de referência das pequenas e médias empresas brasileiras — O ELO entre a tradição da manufatura e a inteligência do futuro, para que nenhuma empresa perca sua essência ao crescer."
+    },
+    "valores": [
+      { "title": "Clareza acima de tudo", "desc": "Traduzimos tecnologia em linguagem simples; decisão inteligente nasce de clareza, não de ruído." },
+      { "title": "Conexão com propósito", "desc": "Unimos pessoas, processos e dados para gerar resultado real, não para parecer moderno." },
+      { "title": "Tecnologia que fala a língua de quem produz", "desc": "Inovação que se adapta à rotina da fábrica, não o contrário." },
+      { "title": "Resultado que se enxerga", "desc": "Medimos sucesso em decisões melhores, menos retrabalho e crescimento visível." },
+      { "title": "Parceria de verdade", "desc": "Caminhamos com o cliente do problema à solução, com escuta e compromisso." }
+    ]
+  },
+  "fundadores": [
+    {
+      "id": "estevao",
+      "image": "/fundadores/estevao.jpg",
+      "name": "Estevão de Costa Santana Junior",
+      "role": "Design / Desenvolvedor Backend",
+      "bio": "Responsável pela identidade visual e pela arquitetura de backend da NEXO. Atua na criação de interfaces e na construção de sistemas robustos que sustentam as soluções de inteligência artificial da empresa, unindo design e engenharia para entregar tecnologia prática e atual."
+    },
+    {
+      "id": "guilherme",
+      "image": "/fundadores/guilherme.jpg",
+      "name": "Guilherme Evangelista Fernandes",
+      "role": "Banco de Dados",
+      "bio": "Especialista na estruturação e gestão de dados da NEXO. Responsável por garantir que a informação circule de forma íntegra, segura e conectada — base essencial para que a inteligência artificial transforme dados dispersos em decisões claras."
+    },
+    {
+      "id": "nelson",
+      "image": "/fundadores/nelson.jpg",
+      "name": "Nelson Marques Sampaio",
+      "role": "P.M / Desenvolvedor Fullstack",
+      "bio": "Atua na gestão de produtos e no desenvolvimento fullstack da NEXO. Conecta visão de negócio e execução técnica, garantindo que cada projeto incorpore inteligência artificial de forma prática, atual e alinhada ao resultado do cliente."
+    },
+    {
+      "id": "pedro",
+      "image": "/fundadores/pedro.jpg",
+      "name": "Pedro Barci Huescar",
+      "role": "P.O / Design",
+      "bio": "Responsável pelo product ownership e pelo design das soluções NEXO. Traduz as necessidades do cliente em produtos claros e funcionais, assegurando que a inteligência artificial incorporada aos projetos gere valor real e seja simples de usar."
+    }
+  ]
+}

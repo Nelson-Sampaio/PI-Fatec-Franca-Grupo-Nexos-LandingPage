@@ -1,0 +1,13 @@
+{
+  "catalogItems": [
+    {
+      "id": "eliot-1-0",
+      "image": "/images/projects/eliot-capa3.jpg",
+      "label": "Eliot 1.0",
+      "description": "O ecossistema definitivo que conecta a produção ao dropshipping, transformando estoque em resultado. Selecione seu perfil para iniciar.",
+      "alt": "Interface do sistema Eliot 1.0",
+      "linkFornecedor": "http://localhost:3000/login/supplier",
+      "linkSeller": "http://localhost:3000/login/seller"
+    }
+  ]
+}
